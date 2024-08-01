@@ -22,7 +22,7 @@
 - ☁️ I've keen interest in Modeling Machine Learning Models. So,I'm learning **Pyhton**
 
 
-- 💬 Ask me about **Machine Learning , Coding**
+- 💬 Ask me about **Machine Learning , Coding , Data Structure , C++ .**
 
 - 📫 Feel free to reach me out **arghyap@gmail.com**
 <!--Intro end-->
