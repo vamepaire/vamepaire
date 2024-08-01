@@ -41,6 +41,16 @@
     <img src="https://skillicons.dev/icons?i=cpp,discord,docker,github,git,html,css,linux,mysql,nodejs,react,vscode&perline=14" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I am Learning👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vscode&perline=14" />
+  </a>
+</p>
 
 
 <!-- Connect with me -->
